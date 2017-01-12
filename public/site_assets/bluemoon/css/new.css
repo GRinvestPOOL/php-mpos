@@ -3392,3 +3392,8 @@ div.blockMsg {
 .dropdown-menu {
   z-index: 9999;
 }
+
+.push-notifications-params,
+.push-notifications-disabled .push-notifications {
+	display : none;
+}
